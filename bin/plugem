@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'capistrano'
+
+require 'plugems_deploy/cli'
+
+PlugemsDeploy::Cli.execute!

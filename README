@@ -1,0 +1,17 @@
+= Introduction
+
+Provides capistrano recipes for managing plugems.
+
+The recipes can be overriden in standard capistrano files (i.e. ~/.caprc, config/deploy.rb, etc) or in a plugems_deploy_ext gem.
+
+See http://revolutiononrails.blogspot.com/ for more details.
+
+
+= License
+
+Plugems released under the MIT license.
+
+
+= Support
+
+The plugin RubyForge page is http://rubyforge.org/projects/plugems

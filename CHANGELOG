@@ -1,0 +1,11 @@
+rel_0_2_0:
+  date: 2007-05-04
+  notes:
+    - update action
+    - install action
+
+rel_0_1_0:
+  date: 2007-05-03
+  notes:
+    - Initial Drop
+    - build action
